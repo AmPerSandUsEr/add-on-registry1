@@ -1,0 +1,14 @@
+{
+    "minecraft": {
+        "name": "Minecraft",
+        "creator": "Mojang Studios"
+    },
+    "editor": {
+        "name": "Minecraft Editor",
+        "creator": "Mojang Studios"
+    },
+    "edu": {
+        "name": "Minecraft Education",
+        "creator": "Mojang Studios"
+    }
+}
